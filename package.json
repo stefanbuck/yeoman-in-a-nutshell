@@ -1,0 +1,21 @@
+{
+  "name": "yeoman-in-a-nutshell",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "findup-sync": "^0.2.1",
+    "inquirer": "^0.8.2",
+    "lodash": "^3.7.0",
+    "mkdirp": "^0.5.0",
+    "ps-tree": "^1.0.0",
+    "rimraf": "^2.2.8",
+    "yeoman-environment": "^1.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Buck",
+  "license": "MIT"
+}
